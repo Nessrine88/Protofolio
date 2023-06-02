@@ -54,7 +54,6 @@ a {
   line-height: 60px;
   letter-spacing: 0.3700000047683716px;
   text-align: center;
-  
 }
 
 .primary span {
@@ -71,7 +70,6 @@ a {
   display: flex;
   justify-content: center;
   align-content: center;
- 
 }
 
 .social-media ul {
@@ -100,8 +98,6 @@ a {
     flex-wrap: wrap;
     flex-direction: column;
   }
-
-
 
   .toolbar ul li {
     flex: 1 1 10%;
