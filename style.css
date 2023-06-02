@@ -1,0 +1,23 @@
+
+body{
+  font-family: inter; 
+   
+}
+.toolbar{
+  display: inline-flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100vh;
+  text-decoration: none;
+}
+.name{
+  size: 48px;
+  display: inline-flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.name span{
+  color: #36B37E;
+  justify-content: center;
+ 
+}
