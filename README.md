@@ -26,7 +26,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Protofolio] <a name="about-project"></a>
 
 > This is a webpage built by HTML CSS wich includes linters
 

@@ -66,10 +66,11 @@ a {
   text-align: center;
 }
 
-.social-media {
+.social-media ul {
   width: 100%;
   display: inline-flex;
   justify-content: center;
+  list-style: none;
 }
 
 .social-media img {
