@@ -133,14 +133,13 @@ a {
   grid-row: 2/4;
   background-color: #fff;
   border: #ebf0ee;
-  margin-bottom: 1px;
   border-radius: 10px;
   align-items: center;
   justify-content: center;
-  height: 100%;
+  height: 200px;
   border-bottom: #3a4a42;
   position: relative;
-  bottom: 90px;
+  bottom: 23px;
 }
 
 .card ul {
